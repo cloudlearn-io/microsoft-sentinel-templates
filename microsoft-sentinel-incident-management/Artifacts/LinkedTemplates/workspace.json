@@ -48,7 +48,11 @@
             "type": "Microsoft.OperationalInsights/workspaces",
             "apiVersion": "2020-08-01",
             "location": "[parameters('location')]",
-            "properties": {},
+            "properties": {
+              "sku": {
+                "name": "[parameters('pricingTier')]"
+              }
+            },
             "resources": [
                 {
                     "type": "savedSearches",
