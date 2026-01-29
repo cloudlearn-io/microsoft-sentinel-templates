@@ -172,7 +172,7 @@ $eventsData = Import-Csv "query_data.csv"
 
 #Write-Host $status
 
-$status = SendToLogA -url "https://raw.githubusercontent.com/techrupt-digital/microsoft-sentinel-lab/refs/heads/main/Artifacts/Telemetry/office_activity_inbox_rule.csv" -EventsTable "OfficeActivity"
+$status = SendToLogA -url "https://raw.githubusercontent.com/cloudlearn-io/microsoft-sentinel-templates/refs/heads/main/microsoft-sentinel-incident-management/Artifacts/Telemetry/office_activity_inbox_rule.csv" -EventsTable "OfficeActivity"
 
 Write-Host $status
 
@@ -180,7 +180,7 @@ Write-Host $status
 
 #Write-Host $status
 
-$status = SendToLogA -url "https://raw.githubusercontent.com/techrupt-digital/microsoft-sentinel-lab/refs/heads/main/Artifacts/Telemetry/office_activity.csv" -EventsTable "OfficeActivity"
+$status = SendToLogA -url "https://raw.githubusercontent.com/cloudlearn-io/microsoft-sentinel-templates/refs/heads/main/microsoft-sentinel-incident-management/Artifacts/Telemetry/office_activity.csv" -EventsTable "OfficeActivity"
 
 Write-Host $status
 
@@ -188,7 +188,7 @@ Write-Host $status
 
 #Write-Host $status
 
-$status = SendToLogA -url "https://raw.githubusercontent.com/techrupt-digital/microsoft-sentinel-lab/refs/heads/main/Artifacts/Telemetry/model_evasion_detection_CL_alerts.csv" -EventsTable "OfficeActivity"
+$status = SendToLogA -url "https://raw.githubusercontent.com/cloudlearn-io/microsoft-sentinel-templates/refs/heads/main/microsoft-sentinel-incident-management/Artifacts/Telemetry/model_evasion_detection_CL_alerts.csv" -EventsTable "OfficeActivity"
 
 Write-Host $status
 
