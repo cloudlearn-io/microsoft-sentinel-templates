@@ -1,0 +1,28 @@
+EventTime,UserPrincipalName,IPAddress,City,CountryOrRegion,ResultType,ResultDescription,AppDisplayName
+2026-06-16T08:30:05Z,alice@cloudlearn.io,20.51.10.4,Toronto,CA,0,Success,Azure Portal
+2026-06-16T08:32:41Z,bob@cloudlearn.io,20.51.10.9,Toronto,CA,0,Success,Office 365
+2026-06-16T08:35:13Z,carol@cloudlearn.io,52.165.44.20,Seattle,US,0,Success,Azure Portal
+2026-06-16T08:41:58Z,dave@cloudlearn.io,84.17.52.3,London,GB,0,Success,Microsoft Teams
+2026-06-16T08:46:22Z,alice@cloudlearn.io,20.51.10.4,Toronto,CA,0,Success,Microsoft Teams
+2026-06-16T08:52:07Z,erin@cloudlearn.io,13.107.42.14,Dublin,IE,0,Success,Office 365
+2026-06-16T08:58:30Z,bob@cloudlearn.io,20.51.10.9,Toronto,CA,0,Success,Azure Portal
+2026-06-16T09:00:11Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:00:44Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:01:19Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:01:53Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:02:30Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:03:08Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:03:45Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:04:21Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:05:02Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:05:40Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:06:18Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50126,Invalid username or password,Azure Portal
+2026-06-16T09:06:59Z,victim@cloudlearn.io,203.0.113.66,Kyiv,UA,50053,Account locked,Azure Portal
+2026-06-16T09:12:34Z,frank@cloudlearn.io,40.74.30.5,New York,US,0,Success,Office 365
+2026-06-16T09:15:00Z,traveler@cloudlearn.io,40.74.6.123,New York,US,0,Success,Azure Portal
+2026-06-16T09:42:11Z,traveler@cloudlearn.io,165.21.83.40,Singapore,SG,0,Success,Azure Portal
+2026-06-16T09:20:48Z,grace@cloudlearn.io,20.51.10.7,Toronto,CA,0,Success,Microsoft Teams
+2026-06-16T09:26:13Z,carol@cloudlearn.io,52.165.44.20,Seattle,US,0,Success,Office 365
+2026-06-16T09:33:52Z,dave@cloudlearn.io,84.17.52.3,London,GB,0,Success,Azure Portal
+2026-06-16T09:44:29Z,alice@cloudlearn.io,20.51.10.4,Toronto,CA,0,Success,Office 365
+2026-06-16T09:51:06Z,erin@cloudlearn.io,13.107.42.14,Dublin,IE,0,Success,Microsoft Teams
